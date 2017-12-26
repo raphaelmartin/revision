@@ -20,7 +20,7 @@
 
 ## Histoire des médias
 
-* [Bibliographie](histoire-des-medias/bibliographie.md)
+* [Plan/Bibliographie](histoire-des-medias/bibliographie.md)
 
 ## Introduction à l'étude des médias
 
