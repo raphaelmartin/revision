@@ -1,4 +1,6 @@
-# Une sous partie dans la séquence 1
+# Qu’est-ce que la sociologie et à quoi peut-elle bien servir ?
+
+
 
 
 

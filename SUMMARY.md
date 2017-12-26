@@ -8,5 +8,9 @@
 
 * [Programme / Bibliographie](sociologie-des-medias/programme-bibliographie.md)
 * [Séquence 1](sociologie-des-medias/sequence-1.md)
-  * [1ère partie](sociologie-des-medias/sequence-1/1ere-partie.md)
+  * [1\)](sociologie-des-medias/sequence-1/1ere-partie.md)
+  * [2\)](sociologie-des-medias/sequence-1/2.md)
+  * socialisation & habitus
+  * [FICHE Qu'est-ce que la sociologie — Norbert ELIAS](sociologie-des-medias/sequence-1/fiche-quest-ce-que-la-sociologie-norbert-elias.md)
+  * FICHE Pour la sociologie. Et en finir avec une prétendue « culture de l’excuse » — Bernard LAHIRE
 
