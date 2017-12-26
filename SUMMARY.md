@@ -18,3 +18,7 @@
 
 * [Programme / Bibliographie](economie-des-medias/programme-bibliographie.md)
 
+## Histoire des médias
+
+## Introduction à l'étude des médias
+
