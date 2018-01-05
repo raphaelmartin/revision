@@ -2,7 +2,7 @@
 
 * Pierre Bourdieu, _Choses Dites_, Paris, Editions de Minuit, 1997\*
 
-* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, _Histoire politique et économique des médias en Franc_e, Paris, La découverte, Coll. Repères, 2009.
+* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, \_Histoire politique et économique des médias en Franc\_e, Paris, La découverte, Coll. Repères, 2009.
 
 * Daniel Dayan, _« Les mystères de la réception »_, Le débat, 1992, n° 71, pp.146-162\*\*
 
@@ -39,33 +39,25 @@ Définitions du jour: Socialisation & habitus
 
 #### Bibliographie indicative
 
-* Myriam Bachir \(dir.\),Les méthodes au concret. Démarches, formes de l’expérience et terrains d’investigation en sciences politiques, Paris, Curapp-Puf, 2000
+* Myriam Bachir \(dir.\), Les méthodes au concret. Démarches, formes de l’expérience et terrains d’investigation en sciences politiques, Paris, Curapp-Puf, 2000
 
-* Howard Becker,Les Ficelles du métier, La Découverte, Paris, 2003
+* Howard Becker, Les Ficelles du métier, La Découverte, Paris, 2003
 
-* Luc Boltanski,Rendre la réalité inacceptable. A propos de la production de
+* Luc Boltanski, Rendre la réalité inacceptable. A propos de la production de l’idéologie dominante, Paris, Démopolis, 2008
 
-l’idéologie dominante, Paris, Démopolis, 2008
+* Pierre Bourdieu, Questions de sociologie, Paris, Editions de Minuit, 1981
 
-* Pierre Bourdieu,Questions de sociologie, Paris, Editions de Minuit, 1981
+* Patrick Champagne, Rémi Lenoir, Dominique Merllié, Initiation à la pratique sociologique, Paris, Dunod, 1999\*
 
-* Patrick Champagne, Rémi Lenoir, Dominique Merllié,Initiation à la pratique
+* Emile Durkheim, Les règles de la méthode sociologique, Paris, Presses Universitaires de France, 2002 \(11èmeédition, Quadrige, 1ère édition : 1937\)
 
-sociologique, Paris, Dunod, 1999\*
+* Norbert Elias, Qu’est-ce que la sociologie ?, La Tour d’Aigues, Editions de l’Aube, 1991
 
-* Emile Durkheim,Les règles de la méthode sociologique, Paris, Presses Universitaires
+* Bernard Lahire, Pour la sociologie. Et en finir avec une prétendue « culture de l’excuse », Paris, La découverte, 2016
 
-de France, 2002 \(11èmeédition, Quadrige, 1èreédition : 1937\)
+* Jean Peneff, Le goût de l'observation, Paris, La Découverte, 2009 notamment les passages traduisant l’article de H. Becker : « Learning to observe in Chicago », p. 60-61, 76-77 et 126-27
 
-* Norbert Elias,Qu’est-ce que la sociologie ?,La Tour d’Aigues, Editions de l’Aube,
-
-1991
-
-* Bernard Lahire,Pour la sociologie. Et en finir avec une prétendue « culture de l’excuse », Paris, La découverte, 2016
-
-* Jean Peneff,La goût de l'observation, Paris, La Découverte, 2009 notamment les passages traduisant l’article de H. Becker : « Learning to observe in Chicago », p. 60-61, 76-77 et 126-27
-
-* Frédéric Lebaron, Christophe Gaubert et Marie-Pierre Pouly,Manuel visuel de sociologie, Paris, Dunod, 2013\*
+* Frédéric Lebaron, Christophe Gaubert et Marie-Pierre Pouly, Manuel visuel de sociologie, Paris, Dunod, 2013\*
 
 ## Séquence 2\(3h – 1 séance\): Médias et classes sociales.Les usages des médias comme composante d’un style de vie
 
@@ -192,7 +184,8 @@ c\) Mobilisations « informationnelles » et espaces médiatiques alternatifs
 
 * Patrick Champagne, « Le cercle politique », ARSS, n°71-72, mars 1988 \(online\)\*\*
 
-* Patrick Champagne,Faire l’opinion. Le nouveau Jeu Politique, Paris, Editions de minuit, 1990  
+* Patrick Champagne,Faire l’opinion. Le nouveau Jeu Politique, Paris, Editions de minuit, 1990
+
 * Nick Couldry,Why voice matters. Culture and Politics after neoliberalism, 2010 \(chapitre 4: p.73-90\)
 
   * Aeron Davis, Political Communication And Social Theory, London Routledge, 2010  
