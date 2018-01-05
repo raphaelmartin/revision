@@ -59,7 +59,7 @@ Définitions du jour: Socialisation & habitus
 
 * Frédéric Lebaron, Christophe Gaubert et Marie-Pierre Pouly, Manuel visuel de sociologie, Paris, Dunod, 2013\*
 
-## Séquence 2\(3h – 1 séance\): Médias et classes sociales.Les usages des médias comme composante d’un style de vie
+## Séquence 2\(3h – 1 séance\): Médias et classes sociales. Les usages des médias comme composante d’un style de vie
 
 a\) L’indissociabilité du processus de communication
 
