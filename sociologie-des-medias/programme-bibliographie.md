@@ -24,7 +24,7 @@ a\) La sociologie comme voyage dans le monde social
 b\) La sociologie comme science : « lutter contre les illusions de la connaissance immédiate » \(Bachelard\)  
 c\) Cinq ficelles du métier de sociologue pour une exigence de scientificité  
 Terrain & méthodes ; réflexivité ; historicisation ; objectivation & « neutralité axiologique » ; déterminations  
-d\) Les enjeux démocratiques de la sociologie   
+d\) Les enjeux démocratiques de la sociologie  
 e\) La sociologie pour un étudiant de l’ifp
 
 2\) Le paysage de la sociologie
