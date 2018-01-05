@@ -1,20 +1,20 @@
 # bibliographie générale
 
-* Pierre Bourdieu, Choses Dites, Paris, Editions de Minuit, 1997\*
+* Pierre Bourdieu, _Choses Dites_, Paris, Editions de Minuit, 1997\*
 
-* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf,Histoire politique et économique des médias en France, Paris, La découverte, Coll. Repères, 2009.
+* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, _Histoire politique et économique des médias en Franc_e, Paris, La découverte, Coll. Repères, 2009.
 
-Daniel Dayan, « Les mystères de la réception »,Le débat, 1992, n° 71, pp.146-162\*\*
+* Daniel Dayan, _« Les mystères de la réception »_, Le débat, 1992, n° 71, pp.146-162\*\*
 
-Stuart Hall, « Encoding/Decoding »,in, Culture, Media, Language, London, Hutchinson, 1981 \[traduction française : « Codage/Décodage »,in Réseaux, n° 68, p.27-39\]\*\* \(online\)
+* Stuart Hall, _« Encoding/Decoding »_, in, Culture, Media, Language, London, Hutchinson, 1981 \[traduction française : « Codage/Décodage »,in Réseaux, n° 68, p.27-39\]\*\* \(online\)
 
-Brigitte Le Grignou,Du côté du public - Usages et réceptions de la télévision, Paris, Economica, 2003\*
+* Brigitte Le Grignou, _Du côté du public - Usages et réceptions de la télévision_, Paris, Economica, 2003\*
 
-Erik Neveu,Une société de communication ?Paris, Montchrestien, 1994\*\*
+* Erik Neveu, _Une société de communication ?_ Paris, Montchrestien, 1994\*\*
 
-Rémy Rieffel,Que sont les médias ?, Paris, Gallimard, 2005\*
+* Rémy Rieffel, _Que sont les médias ?_, Paris, Gallimard, 2005\*
 
-Brigitte Le Grignou et Erik Neveu, Sociologie de la Télévision, La découverte, Paris, 2017
+* Brigitte Le Grignou et Erik Neveu, _Sociologie de la Télévision_, La découverte, Paris, 2017
 
 ## Séquence 1\(6h – 2 séances\): Le regard sociologique
 
@@ -190,7 +190,8 @@ c\) Mobilisations « informationnelles » et espaces médiatiques alternatifs
 
   * Jean-Baptiste Comby,La question climatique. Genèse et dépolitisation d’un problème public, Raisons d’Agir, 2015  
 
-* Patrick Champagne, « Le cercle politique », ARSS, n°71-72, mars 1988 \(online\)\*\*  
+* Patrick Champagne, « Le cercle politique », ARSS, n°71-72, mars 1988 \(online\)\*\*
+
 * Patrick Champagne,Faire l’opinion. Le nouveau Jeu Politique, Paris, Editions de minuit, 1990  
 * Nick Couldry,Why voice matters. Culture and Politics after neoliberalism, 2010 \(chapitre 4: p.73-90\)
 
@@ -209,7 +210,8 @@ c\) Mobilisations « informationnelles » et espaces médiatiques alternatifs
   * Jérémie Nollet, «La médiatisation de l’action publique. Pour une analyse structurale des influences du journalisme sur la fabrication des politiques publiques », Toulouse, Congrès de l’AFSP, TR4, 2007 \(Online\) \([http://www.afsp.msh-paris.fr/congres2007/tablesrondes/textes/](http://www.afsp.msh-paris.fr/congres2007/tablesrondes/textes/) tr4sess3nollet.pdf\)  
   * Eveline Pinto \(dir.\),Pour une analyse critique des médias. Le débat public en danger, Bellecombe-en-Bauges, Editions du Croquant, 2007  
 
-* Philippe Riutort,Sociologie de la communication politique, Paris, La Découverte, 2013  
+* Philippe Riutort,Sociologie de la communication politique, Paris, La Découverte, 2013
+
 * [http://www.acrimed.org/](http://www.acrimed.org/)  
   -[http://www.observatoire-des-sondages.org](http://www.observatoire-des-sondages.org)
 
