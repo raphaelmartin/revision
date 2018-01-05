@@ -2,7 +2,7 @@
 
 * Pierre Bourdieu, _Choses Dites_, Paris, Editions de Minuit, 1997\*
 
-* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, \_Histoire politique et économique des médias en Franc\_e, Paris, La découverte, Coll. Repères, 2009.
+* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, \_Histoire politique et économique des médias en France, Paris, La découverte, Coll. Repères, 2009.
 
 * Daniel Dayan, _« Les mystères de la réception »_, Le débat, 1992, n° 71, pp.146-162\*\*
 
