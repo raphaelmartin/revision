@@ -2,7 +2,7 @@
 
 * Pierre Bourdieu, _Choses Dites_, Paris, Editions de Minuit, 1997\*
 
-* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, \_Histoire politique et économique des médias en France, Paris, La découverte, Coll. Repères, 2009.
+* Ivan Chupin, Nicolas Hubé, Nicolas Kaciaf, _Histoire politique et économique des médias en France_, Paris, La découverte, Coll. Repères, 2009.
 
 * Daniel Dayan, _« Les mystères de la réception »_, Le débat, 1992, n° 71, pp.146-162\*\*
 
@@ -24,7 +24,8 @@ a\) La sociologie comme voyage dans le monde social
 b\) La sociologie comme science : « lutter contre les illusions de la connaissance immédiate » \(Bachelard\)  
 c\) Cinq ficelles du métier de sociologue pour une exigence de scientificité  
 Terrain & méthodes ; réflexivité ; historicisation ; objectivation & « neutralité axiologique » ; déterminations  
-d\) Les enjeux démocratiques de la sociologie e\) La sociologie pour un étudiant de l’ifp
+d\) Les enjeux démocratiques de la sociologie   
+e\) La sociologie pour un étudiant de l’ifp
 
 2\) Le paysage de la sociologie
 
