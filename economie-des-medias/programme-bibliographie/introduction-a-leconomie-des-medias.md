@@ -33,8 +33,7 @@ Sur Internet, en plus des pôles de production et de réception, il y a le pôle
 
 #### Le modèle économique des "fake-news"
 
-La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.
-
+La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.  
 Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic avec le profilage, ciblage\).
 
 #### Notion d'enfermement idéologique sur les réseaux sociaux
@@ -43,7 +42,8 @@ Facebook impose une bulle de filtre, et censure les fake news, mais quelle en es
 
 #### Conclusion : un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
 
-= c'est l'espace intellectuel au sein duquel se diffuse les produits qui informent notre vision du monde.
-
+= c'est l'espace intellectuel au sein duquel se diffuse les produits qui informent notre vision du monde.  
 Google c'est un supermarché avec des étalages, n'importe qui pouvant produire son propre produit cognitif.
+
+Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes. Sur les R.S, notion d'engagement. Sur les moteurs comme Google, notion de vote.
 
