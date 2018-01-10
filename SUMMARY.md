@@ -18,6 +18,7 @@
 
 * [Programme / Bibliographie](economie-des-medias/programme-bibliographie.md)
   * [Introduction à l'économie des médias](economie-des-medias/programme-bibliographie/introduction-a-leconomie-des-medias.md)
+  * [Les grands concepts de l'économie numérique](economie-des-medias/programme-bibliographie/les-grands-concepts-de-leconomie-numerique.md)
 * [Journalisme et numérique](economie-des-medias/journalisme-et-numerique.md)
   * [L’information à tout prix](economie-des-medias/linformation-a-tout-prix.md)
   * Presse en ligne
