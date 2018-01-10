@@ -28,9 +28,8 @@ Sur Internet, en plus des pôles de production et de réception, il y a le pôle
 
 **Résumé**
 
-ouverture à de nvx producteurs, fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
-
-#### la diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\)
+* ouverture à de nvx producteurs, fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
+* diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\) / la perte d'influence des pouvoirs publics sur les mécanismes de production de l'information / entre production et réception, un nouveau pôle: le partage.
 
 Suppression des comptes de terroristes sur les plateformes
 
@@ -39,18 +38,4 @@ Suppression des comptes de terroristes sur les plateformes
 La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.
 
 Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic avec le profilage, ciblage\).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
