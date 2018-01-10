@@ -36,5 +36,21 @@ Suppression des comptes de terroristes sur les plateformes
 
 #### Le modèle économique des "fake-news"
 
+La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.
+
+Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic avec le profilage, ciblage\).
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
