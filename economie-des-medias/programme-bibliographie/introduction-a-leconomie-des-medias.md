@@ -47,3 +47,9 @@ Google c'est un supermarché avec des étalages, n'importe qui pouvant produire 
 
 Ce qui fait la visibilité des infos des infos en ligne, ce sont les internautes. Sur les R.S, notion d'engagement. Sur les moteurs comme Google, notion de vote.
 
+* Google et les produits cognitifs
+* les ressorts psychologiques de la production d'info en ligne
+* visibilité et évaluation collective des informations
+
+
+
