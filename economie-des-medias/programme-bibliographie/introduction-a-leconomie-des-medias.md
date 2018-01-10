@@ -26,16 +26,22 @@ Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, so
 
 Sur Internet, en plus des pôles de production et de réception, il y a le pôle du partage, notamment sur les R.S.
 
-**Résumé**
+### **`Résumé`**
 
 * ouverture à de nvx producteurs, fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
 * diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\) / la perte d'influence des pouvoirs publics sur les mécanismes de production de l'information / entre production et réception, un nouveau pôle: le partage.
-
-Suppression des comptes de terroristes sur les plateformes
 
 #### Le modèle économique des "fake-news"
 
 La rumeur est une activité sociale qui a toujours existé. Avec Internet, l'échelle a changé, elles peuvent désormais rivaliser avec les infos des grands médias.
 
 Enjeu politique / enjeu démocratique / enjeu économique \(économie du clic avec le profilage, ciblage\).
+
+#### Notion d'enfermement idéologique sur les réseaux sociaux
+
+Facebook impose une bulle de filtre, et censure les fake news, mais quelle en est sa définition? Dérive à prévoir. Qui doit prendre l'initiative du fact-checking? Journalistes ou société civile?
+
+#### Conclusion : un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
+
+
 
