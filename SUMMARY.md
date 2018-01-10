@@ -17,6 +17,11 @@
 ## économie des médias
 
 * [Programme / Bibliographie](economie-des-medias/programme-bibliographie.md)
+  * [Introduction à l'économie des médias](economie-des-medias/programme-bibliographie/introduction-a-leconomie-des-medias.md)
+* [Journalisme et numérique](economie-des-medias/journalisme-et-numerique.md)
+  * [L’information à tout prix](economie-des-medias/linformation-a-tout-prix.md)
+  * Presse en ligne
+  * Mutations du journalisme à l’ère numérique : un état des travaux
 
 ## Histoire des médias
 

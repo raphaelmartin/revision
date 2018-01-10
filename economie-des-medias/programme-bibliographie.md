@@ -1,34 +1,32 @@
 # Economie des médias à l’ère numérique - programme de cours
 
- 1. Introduction à l'économie des médias
+1. Introduction à l'économie des médias
 
-2. Les grands concepts de l'économie numérique 
+1. Les grands concepts de l'économie numérique
 
-3. Les modèles économiques de la presse en ligne \(2 séances\)
+2. Les modèles économiques de la presse en ligne \(2 séances\)
 
-4. Le marché de l'audiovisuel à l'épreuve du numérique
+3. Le marché de l'audiovisuel à l'épreuve du numérique
 
-5. Mesure d'audience et marché publicitaire en ligne \(2 séances\)
+4. Mesure d'audience et marché publicitaire en ligne \(2 séances\)
 
-6. Pluralisme de l'information et réglementation du marché des médias \(2 séances\)
+5. Pluralisme de l'information et réglementation du marché des médias \(2 séances\)
 
-7. L'emprise des GAFAM sur le marché de l'information en ligne
+6. L'emprise des GAFAM sur le marché de l'information en ligne
 
-8. Création et droit d'auteur 
-
-
+7. Création et droit d'auteur
 
 # Bibliographie
-
-
 
 ### Journalisme et numérique
 
 Bruns A., « Gatewatching, not gatekeeping : collaborative online news »,New Media and Society, vol. 107, n°1, 2003, p.31-44.
 
-Cagé J., Hervé N., Viaud M.-L.,L’information à tout prix,Editions de l’INA, 2017. Dagiral E., Parasie S., « Presse en ligne »,Réseaux, n°160-161, 2010.
+Cagé J., Hervé N., Viaud M.-L.,L’information à tout prix,Editions de l’INA, 2017. 
 
-Mercier A., Pignard-Cheynel N., « Mutations du journalisme à l’ère numérique : un état des travaux »,Revue françaises des sciences de l’informations et de la communication, n°5, disponible à l’adresse : http://journals.openedition.org/rfsic/1097
+Dagiral E., Parasie S., « Presse en ligne »,Réseaux, n°160-161, 2010.
+
+Mercier A., Pignard-Cheynel N., « Mutations du journalisme à l’ère numérique : un état des travaux »,Revue françaises des sciences de l’informations et de la communication, n°5, disponible à l’adresse : [http://journals.openedition.org/rfsic/1097](http://journals.openedition.org/rfsic/1097)
 
 ### Concepts et modèles de l’économie numérique
 
@@ -98,6 +96,4 @@ Badouard R.,Le désenchantement de l’internet. Désinformation, rumeur et pr
 
 Bronner G.,La démocratie des crédules, PUF, 2013.  
  Cardon D.,La démocratie internet. Promesses et limites, Seuil, 2010.
-
-
 
