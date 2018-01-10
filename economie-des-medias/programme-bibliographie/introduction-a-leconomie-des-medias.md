@@ -26,7 +26,7 @@ Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, so
 
 Sur Internet, en plus des pôles de production et de réception, il y a le pôle du partage, notamment sur les R.S.
 
-### **`Résumé`**
+### `Résumé`
 
 * ouverture à de nvx producteurs, fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
 * diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\) / la perte d'influence des pouvoirs publics sur les mécanismes de production de l'information / entre production et réception, un nouveau pôle: le partage.
@@ -43,5 +43,7 @@ Facebook impose une bulle de filtre, et censure les fake news, mais quelle en es
 
 #### Conclusion : un nouveau "marché cognitif" en ligne \(Bronner, 2013\)
 
+= c'est l'espace intellectuel au sein duquel se diffuse les produits qui informent notre vision du monde.
 
+Google c'est un supermarché avec des étalages, n'importe qui pouvant produire son propre produit cognitif.
 
