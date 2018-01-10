@@ -26,13 +26,15 @@ Avec Internet, il perd ses pouvoirs, amoindris par l'économie du numérique, so
 
 Sur Internet, en plus des pôles de production et de réception, il y a le pôle du partage, notamment sur les R.S.
 
-
-
 **Résumé**
 
 ouverture à de nvx producteurs, fin des gatekeepers tradis \(journalistes\), apparition de nvx intérmédiaires \(Google\).
 
+#### la diversité des registres de prise de parole et des "régimes de véridiction" \(Latour, 2012\)
 
+Suppression des comptes de terroristes sur les plateformes
+
+#### Le modèle économique des "fake-news"
 
 
 
