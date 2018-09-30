@@ -1,7 +1,5 @@
 # Introduction à l'économie des médias
 
-###### ----
-
 ### Le marché de l'économie en ligne
 
 #### l'ouverture a de nouveaux producteurs
